@@ -1,0 +1,17 @@
+h1{
+    font-size: 100px; /* Tamanho da fonte */
+    color: yellow; /* Cor */
+    text-align: center; /* Alinhamento */
+    margin: 20px 0; /* Espaçamento */
+    text-transform: uppercase; /* Transformar texto em maiúsculas */
+    letter-spacing: 1.5px; /* Espaçamento entre letras */
+}
+
+a{
+    background-color: black;
+    color: white;
+}
+a:hover{
+    background-color: antiquewhite;
+    color: yellow;
+}
